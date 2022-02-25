@@ -1,0 +1,133 @@
+.boxHeader {
+   
+    margin-bottom: 10px; 
+    clear: left;
+    height: 595px;
+    float: left;
+     
+    text-align: center;
+    width: 100%;
+ }
+ .boxHeader img{
+    width: 100%;
+    clear: left;
+    height: 595px;
+ }
+ 
+ .menu{
+   
+    padding: 0.2em;
+    clear: left;
+    width: 100%;
+    background-color: rgb(104, 92, 92);
+ 
+ }
+ 
+
+
+ .center{
+       width: 80%;
+       margin: 0px auto;
+       margin-top: 10px;
+       float: left;
+       height: 1000px;
+       margin-bottom: 20px;
+   }
+   .boxleft{
+      text-align: center;
+   }
+   
+ .menu ul li {
+    list-style: none;
+    display: inline;
+    padding: 30px;
+ 
+ }
+ .menu ul li a{
+    text-decoration: none;
+    color: white;
+ margin-left: 100px;
+ 
+ }
+ .menu ul li :hover{
+    text-decoration: underline white;
+  
+  
+ }
+ .menu a:hover{
+    text-decoration: underline;
+ }
+ .menu a:visited{
+    
+ }
+ .footer{
+    border: 2px solid gray;
+    width: 100%;
+    float: left;
+    height: 200px;
+    background-color:rgb(104, 92, 92) ;
+ }
+ .form{
+    margin-left: 50px;
+    
+    width: 30%;
+ }
+ .form p{
+    color: white;
+ }
+ .diaChi{
+    
+    margin-left: 50px;
+    width: 60%;
+ }
+ .diaChi p{
+    color: white;
+ }
+ .text{
+    margin-left: 50px;
+    text-align: justify;
+    margin-right: 50px;
+    margin-top: 100px;
+    
+ }
+ .text h3{
+    text-align: center;
+    color: brown;
+ }
+ .img1 img{
+    margin-top: 50px;
+    margin-left: 50px;
+    border: 1px solid gray;
+    width: 40%;
+    
+ }
+.boxright{
+   width: 50%;
+   float: right;
+   border: 1px solid gray;
+   min-height: 400px;
+   margin-top: 50px;
+   position: relative;
+}
+.title1{
+   
+  
+}
+.price{
+   color: red;
+   position: absolute;
+   margin-top: 50px;
+}
+.icon{
+   float: left;
+
+}
+.sLuong{
+   margin-left: 200px;
+   position: absolute;
+   margin-top: 100px;
+}
+.sLuong input{
+   width: 50px;
+   height: 50px ;
+}
